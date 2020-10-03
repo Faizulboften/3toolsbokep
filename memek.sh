@@ -73,6 +73,7 @@ pip2 install lolcat
 git clone https://github.com/Faizulboften/ToolsBokep
 cd ToolsBokep
 sh viral.sh
+fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
@@ -87,6 +88,7 @@ pkg install python
 git clone https://github.com/Faizulboften/Viral
 cd Viral
 sh croot.sh
+fi
 
 
 if [ $bro = 99 ] || [ $bro = 99 ]
