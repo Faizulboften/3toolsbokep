@@ -1,7 +1,7 @@
 clear
-sleep 10
+sleep 5
 echo $cyan " 📂 MENGINSTALL 3 TOOLS BOKEP"
-sleep 20
+sleep 10
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
