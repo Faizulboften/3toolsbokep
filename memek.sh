@@ -60,24 +60,8 @@ sleep 3
 echo "\033[32;1mJangan Lupa subscribe channel admin woke:)"
 sleep 3
 clear
-echo -n "apakah anda sudah subscribe channel admin? y/n :"
-read pilih
-if [ $pilih = "y" ];
-then
-sleep 2
-echo "Terimakasih sudah subscribe channel admin"
-sleep 2
-clear
-elif [ $pilih = "n" ];
-then
-sleep 2
-echo "SILAHKAN SUBSCRIBE CHANNEL ADMIN"
 termux-open-url "https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q"
-sleel 4
-echo "MAKASIH SUDAH DUKUNG  CHANNEL ADMIN^_^"
-sleep 2
-clear
-sleep 1
+sleep 5
 echo $ij "
 ░█▀▀█ █▀▀█ █─█ █▀▀ █▀▀█ |-----------------|
 ░█▀▀▄ █──█ █▀▄ █▀▀ █──█ |  Author : Faizul
