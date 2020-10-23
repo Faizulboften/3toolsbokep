@@ -56,27 +56,27 @@ read nama;
 sleep 3
 echo "Hallo salam kenal Sad \033[31;1m[$nama]"
 sleep 3
-echo "\033[32;1mJangan Lupa subscribe channel admin woke:)"
+echo "\033[32;1mSUBSCRIBE MY CHANNEL AUTHOR OKE:)"
 termux-open-url "https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q"
 sleep 5
-echo $me "
+echo $ij "
 ░█─▄▀ ── █▀▄▀█ █▀▀▄ █▀▀   | ●AUTHOR : Faizul
 ░█▀▄─ ▀▀ █─▀─█ █▀▀▄ █▀▀   |-----------------------|
 ░█─░█ ── ▀───▀ ▀▀▀─ ▀──   | ●DATE : 23/10/2020"
                             
  echo $ij "
      \n\t\033[31;1m~  ~  ~\033[31;1m┌∩┐\033[31;1m(\033[31;1m◣_◢\033[31;1m)\033[31;1m┌∩┐\033[31;1m~  ~  ~
-     \t\033[31;1m   ●MENU MBF V3
+     \t\033[31;1m     ●MENU MBF V3
      \t\033[31;1m -------------------------\033[31;1m\n         
-════════════════════════════════════════════  
-[1] ●BOT LIKE FACEBOOK
-════════════════════════════════════════════
-[2] ●EDIT TAMPILAN TERMUX
-════════════════════════════════════════════
-[3] ●SPAM TSEL
-════════════════════════════════════════════
-[4] ●DAFTAR HOKISLOOT8I JUDI ONLINE
-════════════════════════════════════════════
+═══════════════════════════════════
+[1] ●BOT LIKE FACEBOOK ]
+═══════════════════════════════════
+[2] ●EDIT TAMPILAN TERMUX ]
+═══════════════════════════════════
+[3] ●SPAM TSEL ]
+═══════════════════════════════════
+[4] ●DAFTAR HOKISLOOT88 JUDI ONLINE ]
+═══════════════════════════════════
 ┗────[99] EXIT/TOOLS"
 echo '\033[31;1m'
 read -p "root@Pilih Number > " bro
