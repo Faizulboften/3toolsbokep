@@ -59,10 +59,11 @@ sleep 3
 echo "\033[32;1mSUBSCRIBE MY CHANNEL AUTHOR OKE:)"
 termux-open-url "https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q"
 sleep 5
+clear
 echo $ij "
-░█─▄▀ ── █▀▄▀█ █▀▀▄ █▀▀   | ●AUTHOR : Faizul
+░█─▄▀ ── █▀▄▀█ █▀▀▄ █▀▀   | ● AUTHOR : Faizul
 ░█▀▄─ ▀▀ █─▀─█ █▀▀▄ █▀▀   |-----------------------|
-░█─░█ ── ▀───▀ ▀▀▀─ ▀──   | ●DATE : 23/10/2020"
+░█─░█ ── ▀───▀ ▀▀▀─ ▀──   | ● DATE : 23/10/2020"
                             
  echo $ij "
      \n\t\033[31;1m~  ~  ~\033[31;1m┌∩┐\033[31;1m(\033[31;1m◣_◢\033[31;1m)\033[31;1m┌∩┐\033[31;1m~  ~  ~
@@ -73,7 +74,7 @@ echo $ij "
 ═══════════════════════════════════
 [2] ●EDIT TAMPILAN TERMUX ]
 ═══════════════════════════════════
-[3] ●SPAM TSEL ]
+[3] ●SPAM TSEL ] 
 ═══════════════════════════════════
 [4] ●DAFTAR HOKISLOOT88 JUDI ONLINE ]
 ═══════════════════════════════════
@@ -98,6 +99,7 @@ echo $me "INSTALL CLONE"
 git clone https://github.com/Acil95/botlike
 cd botlike
 php bot.php
+echo $me "SCRIP UPDATE "
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
