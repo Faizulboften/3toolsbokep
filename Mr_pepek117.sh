@@ -134,10 +134,11 @@ php bombtsel.php
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
+then
+sleep 5
 echo $ij "MASUK KE WEBHOKI"
 sleep 10
 echo $ij "WEBSITE PENGHASIL DUIT JUDI ONLINE"
-sleep 5
 termux-open-url "http://54.254.177.115/reg_mobile"
 cd NOT-VPN
 sh Mr_pepek117.sh
